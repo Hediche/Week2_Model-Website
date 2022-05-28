@@ -7,10 +7,11 @@ header{
 .logotext{
     position: absolute;
     left:140px;
+    padding:0;
 }
 .first{
     background-color: #1f2937;
-    padding: 100px;
+    padding: 70px;
 }
 .second{
     padding: 100px;

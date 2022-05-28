@@ -1,6 +1,9 @@
 body{
     text-align: center;
 }
+header{
+    color: white;
+}
 .first{
     background-color: #1f2937;
     padding: 100px;

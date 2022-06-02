@@ -1,5 +1,7 @@
 body{
     text-align: center;
+    margin:0;
+    padding:0;
 }
 header{
     color: white;
@@ -11,17 +13,16 @@ header{
 }
 .first{
     background-color: #1f2937;
-    padding: 70px;
+    
 }
 .second{
     padding: 100px;
 }
 .third{
-    padding: 100px 300px 0;
+    width: 80%;
 }
 .forth{
-    padding: 200px;
-    width: auto;
+    width: 60%;
 }
 p.imgtxt > {
     color: #1f2937;
@@ -31,12 +32,12 @@ ul{
     padding-right:120px;
     flex-direction: row;
     flex: 1;
-    padding-top: 0;
+    justify-content: space-between;
 }
 li{
     float:right;
     direction: rtl;
-    padding: 10px;
+    padding: 30px;
     
 }
 a{
